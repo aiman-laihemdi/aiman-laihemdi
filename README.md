@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="center"># Hi 👋🏽  I'm Aiman<br><br>Full-Stack Developer in training @ Developer Academy  🚀</h2>
+<h2 data-importer="text" align="center"> Hi 👋🏽  I'm Aiman<br><br>Full-Stack Developer in training @ Developer Academy  🚀</h2>
 
 ###
 
